@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml:kml xmlns:kml="http://earth.google.com/kml/2.1">
+    <kml:Document id="featureCollection">
+        <kml:Placemark id="0">
+            <kml:Polygon>
+                <kml:outerBoundaryIs>
+                    <kml:LinearRing>
+                        <kml:coordinates>175.03994890000612,-36.785449969298085 175.04027335000612,-36.784999585997575 175.0403227167061,-36.784998135997576 175.0403484167061,-36.78556873599821 175.0402364833061,-36.78558441929823 175.03994890000612,-36.785449969298085</kml:coordinates>
+                    </kml:LinearRing>
+                </kml:outerBoundaryIs>
+            </kml:Polygon>
+        </kml:Placemark>
+    </kml:Document>
+</kml:kml>
